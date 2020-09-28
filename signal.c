@@ -1,6 +1,6 @@
 //************************************************************
 //  Suprakash Mukherjee (2019H1120048P)
-//  ME SS, BITS Pilani
+//  ME SS, BITS Pilani - Pilani Campus
 //  NP Lab Assignment 1 (odd semester 2020)
 //
 //  Logic Explanation : 
