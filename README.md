@@ -1,2 +1,2 @@
 # Signals
-This is IPC communication using signals among child processes
+IPC communication using signals among child processes
